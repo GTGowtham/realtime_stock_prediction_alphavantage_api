@@ -1,0 +1,9 @@
+pandas
+alpha-vantage
+ SQLAlchemy 
+ ta 
+ streamlit 
+ plotly 
+ tensorflow 
+ numpy
+scikit-learn
