@@ -17,4 +17,10 @@ This project predicts the next trading day's stock prices using an LSTM model tr
    ```bash
    git clone https://github.com/GTGowtham/stock-prediction.git
    cd stock-prediction
+   
+
+  ```bash
+  pip install -r requirements.txt
   
+
+
